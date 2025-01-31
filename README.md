@@ -30,4 +30,4 @@ Make sure you have the following installed:
    ```bash
    git clone https://github.com/yourusername/Subtitle-Generation-python-based-WebApp.git
    cd Subtitle-Generation-Python-Based-WebApp
-   python webapp.py
+   python web_app.py
