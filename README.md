@@ -28,5 +28,6 @@ Make sure you have the following installed:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/Subtitle-Generation-Python-Based-WebApp.git
+   git clone https://github.com/yourusername/Subtitle-Generation-python-based-WebApp.git
    cd Subtitle-Generation-Python-Based-WebApp
+   python webapp.py
