@@ -1,7 +1,7 @@
 
 # 🎬 Multi-Language-Subtitle-Generation-Python-Based-WebApp
 
-Welcome to the **Subtitle-Generation-Python-Based-WebApp**! This Flask-based web application is designed to generate subtitles in multiple languages with an easy-to-use interface and comprehensive documentation.
+Welcome to the **Multi-Language-Subtitle-Generation-Python-Based-WebApp**! This Flask-based web application is designed to generate subtitles in multiple languages with an easy-to-use interface and comprehensive documentation.
 
 ![Screenshot 2025-01-30 140858](https://github.com/user-attachments/assets/4078bc98-8782-4747-b54a-64c8ae494b54)
 
@@ -43,7 +43,11 @@ Make sure you have the following installed:
 
 
 ### Results
+Video:
 [![🎬 Multi-Language-Subtitle-Generation-Python-Based-WebApp](https://img.youtube.com/vi/6GFXvsVkqGg/0.jpg)](https://youtu.be/6GFXvsVkqGg "Multi-Language-Subtitle-Generation-Python-Based-WebApp")
+
+
+Image:
 ![Screenshot 2025-01-30 141639](https://github.com/user-attachments/assets/efebe1e3-a979-44e4-a771-8f02695eab65)
 
 
