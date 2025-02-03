@@ -1,7 +1,7 @@
 
 # 🎬 Subtitle-Generation-Python-Based-WebApp
 
-Welcome to the **Subtitle-Generation-Python-Based-WebApp**! This is a Flask-based web application designed to generate subtitles in multiple languages with an easy-to-use interface and comprehensive documentation.
+Welcome to the **Subtitle-Generation-Python-Based-WebApp**! This Flask-based web application is designed to generate subtitles in multiple languages with an easy-to-use interface and comprehensive documentation.
 
 ---
 
@@ -12,6 +12,9 @@ Welcome to the **Subtitle-Generation-Python-Based-WebApp**! This is a Flask-base
 - **User-Friendly**: Designed to be simple and accessible, even for non-technical users.
 - **Detailed Documentation**: Includes a comprehensive article to help users and developers understand the code.
 
+
+## Article with a full explanation of the code
+Read the article here: https://medium.com/python-in-plain-english/polyglot-captions-transforming-multilingual-content-with-python-powered-caption-generation-7036da70d834
 ---
 
 ## 🚀 Getting Started
@@ -24,10 +27,17 @@ Make sure you have the following installed:
 - **Python 3.x**: Download from [python.org](https://www.python.org/).
 - **pip**: Comes with Python. If missing, install it from [pip's official site](https://pip.pypa.io/en/stable/installation/).
 
-### Installation
+1. **Installation**:
+   - Clone this repository: `https://github.com/your_username/Multi-Language-Subtitle-Generation-Python-Based-WebApp.git`
+   - Install dependencies: `pip install -r requirements.txt`
 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/yourusername/Subtitle-Generation-python-based-WebApp.git
-   cd Subtitle-Generation-Python-Based-WebApp
-   python web_app.py
+2. **Usage**:
+   - Run the Python script: `python web_app.py`
+   - Open http://127.0.0.1:5000/ on your browser.
+
+3. **Contributing**:
+   - Fork the repository and create a new branch.
+   - Make your enhancements and submit a pull request.
+
+## License
+This project is licensed under the Apache 2.0 - see the LICENSE file for details.
