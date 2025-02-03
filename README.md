@@ -43,7 +43,7 @@ Make sure you have the following installed:
 
 
 ### Results
-[![🎬 Multi-Language-Subtitle-Generation-Python-Based-WebApp](https://i.sstatic.net/q3ceS.png)](https://youtu.be/6GFXvsVkqGg "Multi-Language-Subtitle-Generation-Python-Based-WebApp")
+[![🎬 Multi-Language-Subtitle-Generation-Python-Based-WebApp](https://img.youtube.com/vi/6GFXvsVkqGg/0.jpg)](https://youtu.be/6GFXvsVkqGg "Multi-Language-Subtitle-Generation-Python-Based-WebApp")
 ![Screenshot 2025-01-30 141639](https://github.com/user-attachments/assets/efebe1e3-a979-44e4-a771-8f02695eab65)
 
 
